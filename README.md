@@ -32,25 +32,37 @@ Delete Program Code
 -=-=-=-=- Q&A -=-=-=-=-
 
 Q: How to add custom launch option
+
 A: go to ./views/CC.ejs find 93 line (there is a comment "IF U WANT TO ADD MORE INTERPRETERS...") above "</select>" add "<option value="!HERE SHOULD BE UR INTERPRETER NAME!">!NAME!</option>" change !inside shit! to ur chosing for example python.
 
 Q: Why there is Ip undefined and there is no program console output
+
 A: go to /routes/api.js go to line 33 find commented console.log, uncomment it, restart server, when somebody tries to load page, on server console should be array. go back to api.js chance line 40 accordingly
 
 Q: Will u update this
+
 A: Only if i personally ganna need it
 
 Q: Why is the code bad
+
 A: as i stated this is my project for learning JavaScript and soo on, soo yeah some parts are trash.
 
 Q: Why English bad
+
 A: I'm Lithuanian
 
 -=-=-=-=- List of dependacies -=-=-=-=-
+
 npm i cors
+
 npm i multer
+
 npm i adm-zip
+
 npm i ps-list@7.2.0
+
 npm i ws
+
 npm i node-os-utils
+
 npm i node-disk-info
