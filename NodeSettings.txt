@@ -1,5 +1,0 @@
-Startup: false
-Console: true
-Fname: Test
-EXEname: index.js
-Launcher: node
