@@ -2,7 +2,7 @@ Well This is documentation of my WebServer code.
 
 -=-=-=--=- Purpose -=-=-=--=-
 
-This node.js webserver is made to run multiple diffrend codes at same time using Node.js Child_process 
+This node.js webserver is made to run multiple diffrend codes at same time using Node.js Child_process, ONLY WORKS ON LOCAL NETWORKS
 
 -=-=-=--=- Why? -=-=-=--=-
 
@@ -22,6 +22,9 @@ Can create button links for remembering ip and ports easier
 
 -=-=-=-=- How to use -=-=-=-=-
 
+how to get to webpage
+ 1. go to http://localhost:6900, change Localhost part for ip of device that host this server
+
 Add New Program Code
 1. Go to AddNewCode tab
 2. select .zip file format
@@ -34,6 +37,10 @@ Delete Program Code
 2. press delete
 
 -=-=-=-=- Q&A -=-=-=-=-
+
+Q: default port ?
+
+A: Default port = 6900
 
 Q: How to add custom launch option
 
