@@ -1,13 +1,16 @@
 Well This is documentation of my WebServer code.
 
 -=-=-=--=- Purpose -=-=-=--=-
+
 This node.js webserver is made to run multiple diffrend codes at same time using Node.js Child_process 
 
 -=-=-=--=- Why? -=-=-=--=-
+
 Wanted to learn JavaScript, html, Css and Node.js soo i thought this could be fun project + I personaly ganna use it for discord bots and multiple simple Node.js webservers
 
 
 -=-=-=--=- Capabilities -=-=-=--=-
+
 It can run on basically anything that has Node.js + npm
 Tested os (Windows 11, Ubuntu 23.10 server)
 
